@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce # 1. Decide your mode.
+mode: enforce 
 mx: aspmx.l.google.com      
 mx: alt3.aspmx.l.google.com
 mx: alt4.aspmx.l.google.com
